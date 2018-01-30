@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Singapore Empire Royal GeylangChain
+
+### One Geylang Coin, One hour of pure happiness!
 
 You can use the [editor on GitHub](https://github.com/geylangio/geylang.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

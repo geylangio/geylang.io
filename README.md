@@ -1,4 +1,4 @@
-## Welcome to Singapore Empire Royal GeylangChain
+## Welcome to Singapore Empire Royal Geylang Blockchain
 
 ### One Geylang Coin, One hour of pure happiness!
 

@@ -1,5 +1,5 @@
 ## Welcome to Singapore Empire Royal Geylang Blockchain
 
-### One Geylang Coin, One hour of pure happiness!
+### One Geylang Coin, One hour of full happiness!
 
 

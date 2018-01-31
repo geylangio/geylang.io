@@ -4,3 +4,16 @@
 
 
 ![alt text](https://github.com/lai3d/geylang.io/blob/master/images/geylang.png?raw=true "Geylang Blockchain")
+
+### Technology
+
+![alt text](https://github.com/lai3d/geylang.io/blob/master/images/blockchain.jpg?raw=true "Blockchain")
+
+### Roadmap
+
+### Team Members
+
+### Advisors
+
+### Investors
+
